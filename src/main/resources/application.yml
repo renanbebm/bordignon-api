@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@172.16.21.4:1521:bordb
+    username: gemco
+    password: brdgnn1236
+
+server:
+  port: 8080
